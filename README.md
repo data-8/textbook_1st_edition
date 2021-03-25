@@ -45,7 +45,7 @@ Here are steps to get started building the textbook on your own machine:
 
 **To preview your built site** using Jekyll on your computer, follow
 the steps on the [Jupyter Book guide](https://jupyter.org/jupyter-book/guide/03_build.html#build-the-books-site-html-locally-optional).
-The short version is to run `make serve`, then visit `http://127.0.0.1:4000/chapters/intro` in your browser.
+The short version is to run `make serve`, then visit `http://127.0.0.1:4000/textbook_1st_edition/chapters/intro` in your browser.
 
 ## Relevant files
 
